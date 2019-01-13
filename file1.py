@@ -24,4 +24,5 @@ def myfunc4(mvar2):
 
 
 def myfunc6(mvar):
-    print("add 5 from local")
+    print("add 5 from local--> edit 6 from online")
+    
