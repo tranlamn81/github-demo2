@@ -16,6 +16,11 @@ def myfunc2(mvar2):
 
 def myfunc3(mvar1):
     print("add 3 from online")
+    print("add 5 from local")
 
 def myfunc4(mvar2):
     print("add 3 from online")
+
+
+def myfunc6(mvar):
+    print("add 5 from local")
