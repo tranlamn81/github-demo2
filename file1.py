@@ -5,9 +5,11 @@ print("add 2 - from local")
 
 def myfunc1(mvar1):
     print("add 3 from local")
+    print("add 4 from local")
 
 def myfunc2(mvar2):
     print("add 3 from local")
+    print("add 4 from local")
 
 def myfunc3(mvar1):
     print("add 3 from online")
