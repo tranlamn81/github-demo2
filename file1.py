@@ -24,8 +24,10 @@ def myfunc4(mvar2):
     print("add 3 from online")
     # new comment
     # new comment2 update
+    # feature A
 
 
 def myfunc6(mvar):
     print("add 5 from local")
     # new comment branchnew1
+    # new comment branchnew1-A
