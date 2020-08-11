@@ -27,6 +27,7 @@ def myfunc4(mvar2):
     # new comment2 update
     # feature A
     # feature A1
+    # new1
 
 
 def myfunc6(mvar):
