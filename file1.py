@@ -42,4 +42,5 @@ def myfunc6(mvar):
 
 def myfunc9(mvar):
     #new1
+    #new2
     pass
