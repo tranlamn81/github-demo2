@@ -28,6 +28,7 @@ def myfunc4(mvar2):
     # feature A
     # feature A1
     # new1
+    # new2
 
 
 def myfunc6(mvar):
