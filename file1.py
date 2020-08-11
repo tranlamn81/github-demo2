@@ -38,3 +38,7 @@ def myfunc6(mvar):
     # new comment branchnew1-A
     # test branch1 feature D
     # Feature F
+
+def myfunc9(mvar):
+    #new1
+    pass
