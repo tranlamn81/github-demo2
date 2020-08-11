@@ -30,6 +30,7 @@ def myfunc4(mvar2):
     # new1
     # new2
     # new3
+    # new4
 
 
 def myfunc6(mvar):
