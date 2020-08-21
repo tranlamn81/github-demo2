@@ -42,3 +42,6 @@ def myfunc6(mvar):
 
 def test(var):
     #test
+
+def test1(var):
+    #test
