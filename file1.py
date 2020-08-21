@@ -38,3 +38,6 @@ def myfunc6(mvar):
     # Feature F1
     # Feature F2-1
     # Feature F2-2
+
+def test(var):
+    #test
